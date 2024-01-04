@@ -8,8 +8,11 @@ Welcome to Anime Explorer, your gateway to a boundless realm of anime enchantmen
 
 A sleek and intuitive interface with haptic feedback, Anime Explorer brings you instant access to all info, recommendations, reviews, the latest releases, and upcoming shows.
 
+■  Track your favorite anime
+■  Keep up to date with the latest news
 ■  Currently airing shows
 ■  Upcoming shows
+■  Fun facts related to manga, anime and more
 ■  All the info you want (story, characters, rating, news, theme, genre and more!)
 ■  Watch show images, trailer and chapters (# of chapters and synopsis)
 ■  Text to Speech accessibility
@@ -21,11 +24,14 @@ A sleek and intuitive interface with haptic feedback, Anime Explorer brings you 
 
 Immerse yourself in the enchanting world of anime with Anime Explorer, discover hidden gems, information, recommendations and reviews at your fingertips.
 
-![Cocktail Bliss](images/img_1.jpeg)
+![Cocktail Bliss](images/img_12.jpeg)
 ![Cocktail Bliss](images/img_6.jpeg)
 ![Cocktail Bliss](images/img_2.jpeg)
-![Cocktail Bliss](images/img_3.jpeg)
+![Cocktail Bliss](images/img_8.jpeg)
+![Cocktail Bliss](images/img_10.jpeg)
+![Cocktail Bliss](images/img_11.jpeg)
 ![Cocktail Bliss](images/img_7.jpeg)
+![Cocktail Bliss](images/img_9.jpeg)
 ![Cocktail Bliss](images/img_4.jpeg)
 ![Cocktail Bliss](images/img_5.jpeg)
 
